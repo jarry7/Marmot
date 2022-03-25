@@ -57,7 +57,8 @@ Module_CLASS_MAPPING = {"capacity_factor": "CapacityFactor",
 
 INCORRECT_ENTRY_POINT = ("Beginning in Marmot v0.10.0, the abilty to run "
     "'python {}' directly has been removed. To run "
-    "the code as before, run 'python bin/run_marmot_plotter.py' from " 
+    "the code as before, run 'python bin/run_marmot_formatter.py' (for formatting) " 
+    " and 'python bin/run_marmot_plotter.py' (for plotting) from " 
     "Marmot Package directory")
 
 PLEXOS_YEAR_WARNING = ("Please Note: Year properties can not "
